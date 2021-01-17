@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mF:\Test\src\main\scala\Hello.scala:2:8: not found: object actor[0m
+[0m[[0m[31merror[0m] [0m[0mimport actor._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mF:\Test\src\main\scala\Hello.scala:3:8: not found: object persistence[0m
+[0m[[0m[31merror[0m] [0m[0mimport persistence._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
